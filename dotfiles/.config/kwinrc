@@ -1,13 +1,3 @@
-[Activities][LastVirtualDesktop]
-0d1e3531-d9dc-4fc8-8157-1f9ee7b2ce18=b3043b8f-00a3-4d01-b3e1-dfc543c776eb
-
-[Desktops]
-Id_1=b3043b8f-00a3-4d01-b3e1-dfc543c776eb
-Id_2=cf2bdc65-977b-48be-bf05-854b982e32ed
-Id_3=9db2a361-8ceb-494d-9428-ae0f9fb41470
-Number=3
-Rows=1
-
 [Effect-blur]
 NoiseStrength=14
 
