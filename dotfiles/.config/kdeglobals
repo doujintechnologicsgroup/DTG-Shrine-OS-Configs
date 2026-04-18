@@ -93,11 +93,6 @@ ForegroundNormal=255,255,255
 ForegroundPositive=153,199,148
 ForegroundVisited=0,9,37
 
-[DirSelect Dialog]
-DirSelectDialog Size=1366,744
-History Items[$e]=file:$HOME/Descargas/MiyukiGPT Builds Versions/Alpha/MiyukiGPT Alpha v2/miyuki_sfw_software_parts,file:///media/alex/5A0A4FA80A4F7FCD/Archivos de programa/Image-Line/FL Studio 2024/Data/Patches/User/Cymatics Project X WAV FXP MIDI ALP FLP/Drums - Loops/Fills,file:$HOME/Descargas/MiyukiGPT Builds Versions,file:///media/alex/5A0A4FA80A4F7FCD/Users/Usuario/Documents/Xfer/Serum 2 Presets/Tables/User/Kirisame Records - Kawaii Growl Doujin Tables Vol. 1/Ultracomb Bass Tables,file:$HOME/Vídeos/Hidamari,file:$HOME/Vídeos/Hidamari,file:$HOME/.config/Kvantum/KvGnomeDark,file:$HOME/.config/Kvantum,file:$HOME/.config/Kvantum/,file:$HOME/Descargas/MiyukiGPT Builds Versions/Alpha/MiyukiGPT Alpha v2/miyuki_nsfw_software_parts,file:$HOME/Descargas/MiyukiGPT Builds Versions/Alpha/MiyukiGPT Alpha v2/miyuki_nsfw_software_parts
-Splitter State=\x00\x00\x00\xff\x00\x00\x00\x01\x00\x00\x00\x02\x00\x00\x00\xaf\x00\x00\x02\xa8\x00\xff\xff\xff\xff\x01\x00\x00\x00\x01\x00
-
 [General]
 BrowserApplication=google-chrome.desktop
 ColorSchemeHash=24288110b39dda6619b7c980e16f5c7ac2be64b1
