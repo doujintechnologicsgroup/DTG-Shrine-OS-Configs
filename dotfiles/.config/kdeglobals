@@ -93,19 +93,6 @@ ForegroundNormal=255,255,255
 ForegroundPositive=153,199,148
 ForegroundVisited=0,9,37
 
-[General]
-BrowserApplication=google-chrome.desktop
-ColorSchemeHash=24288110b39dda6619b7c980e16f5c7ac2be64b1
-LastUsedCustomAccentColor=61,174,233
-UseSystemBell=true
-XftAntialias=true
-XftSubPixel=rgb
-fixed=VL Gothic,8,-1,5,400,0,0,0,0,0,0,0,0,0,0,1,regular
-font=Arial Unicode MS,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
-menuFont=Arial Unicode MS,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
-smallestReadableFont=Arial Unicode MS,8,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
-toolBarFont=Arial Unicode MS,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
-
 [Icons]
 Theme=int_nord
 
