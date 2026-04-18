@@ -1,0 +1,99 @@
+{
+    "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/dev/doc/json_schema.json",
+    "logo": {
+        "source": "/home/alex/.config/fastfetch/dtg_shrine_os_ascii_logo.txt",
+        "type": "file",
+        "color": {
+            "1": "red", // Esto va a pintar tu Shuriken ASCII de rojo
+            "2": "white"
+        },
+        "padding": {
+            "top": 2,
+            "right": 4
+        }
+    },
+    "display": {
+        "separator": " 󰄾 ", // Un separador un poco más "kawaii" o técnico
+        "color": {
+            "keys": "red",   // ACÁ ESTÁ EL CAMBIO: Todo lo que es texto de etiqueta ahora es ROJO
+            "title": "red"   // El nombre alex@msi-cx61 también en rojo
+        },
+        "size": {
+            "maxPrefix": "MB",
+            "ndigits": 0
+        }
+    },
+    "modules": [
+        "title",
+        {
+            "type": "separator",
+            "string": "━━━━━━━━━━━━━━━━━" // Una línea más sólida para el estilo Shrine
+        },
+        {
+            "type": "os",
+            "format": "DTG Shrine OS 4.0 [Debian 13 Trixie]",
+            "key": "󰣚 OS"
+        },
+        {
+            "type": "host",
+            "key": "󰌢 Host"
+        },
+        {
+            "type": "kernel",
+            "format": "{release}",
+            "key": "󰚚 Kernel"
+        },
+        {
+            "type": "uptime",
+            "key": "󱎫 Uptime"
+        },
+        {
+            "type": "packages",
+            "key": "󰏗 PKGs"
+        },
+        {
+            "type": "shell",
+            "key": "󱆃 Shell"
+        },
+        {
+            "type": "display",
+            "compactType": "original",
+            "key": "󰍹 Resolution"
+        },
+        {
+            "type": "de",
+            "key": "󰧨 DE"
+        },
+        {
+            "type": "wm",
+            "key": "󱂬 WM"
+        },
+        {
+            "type": "theme",
+            "key": "󰉼 Theme"
+        },
+        {
+            "type": "icons",
+            "key": "󰀻 Icons"
+        },
+        {
+            "type": "terminal",
+            "key": "󰆍 Terminal"
+        },
+        {
+            "type": "cpu",
+            "key": "󰻠 CPU"
+        },
+        {
+            "type": "gpu",
+            "key": "󰢮 GPU"
+        },
+        {
+            "type": "memory",
+            "format": "{} / {}",
+            "key": "󰍛 Memory"
+        },
+        "break",
+        "colors"
+    ]
+}

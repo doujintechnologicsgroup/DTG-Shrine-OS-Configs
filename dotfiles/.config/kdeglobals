@@ -1,0 +1,155 @@
+[ColorEffects:Disabled]
+ChangeSelectionColor=
+Color=56,56,56
+ColorAmount=0
+ColorEffect=0
+ContrastAmount=0.65
+ContrastEffect=1
+Enable=
+IntensityAmount=0.1
+IntensityEffect=2
+
+[ColorEffects:Inactive]
+ChangeSelectionColor=false
+Color=112,111,110
+ColorAmount=0.025000000000000001
+ColorEffect=2
+ContrastAmount=0.10000000000000001
+ContrastEffect=2
+Enable=false
+IntensityAmount=0
+IntensityEffect=0
+
+[Colors:Button]
+BackgroundAlternate=64,69,82
+BackgroundNormal=0,5,8
+DecorationFocus=0,5,8
+DecorationHover=0,5,8
+ForegroundActive=95,179,179
+ForegroundInactive=144,167,187
+ForegroundLink=102,153,204
+ForegroundNegative=236,95,103
+ForegroundNeutral=249,145,87
+ForegroundNormal=255,255,255
+ForegroundPositive=153,199,148
+ForegroundVisited=0,9,37
+
+[Colors:Complementary]
+ForegroundVisited=0,9,37
+
+[Colors:Selection]
+BackgroundAlternate=0,9,37
+BackgroundNormal=0,5,8
+DecorationFocus=0,5,8
+DecorationHover=0,5,8
+ForegroundActive=95,179,179
+ForegroundInactive=254,254,254
+ForegroundLink=102,153,204
+ForegroundNegative=236,95,103
+ForegroundNeutral=249,145,87
+ForegroundNormal=255,255,255
+ForegroundPositive=153,199,148
+ForegroundVisited=0,9,37
+
+[Colors:Tooltip]
+BackgroundAlternate=47,52,63
+BackgroundNormal=0,5,8
+DecorationFocus=0,5,8
+DecorationHover=0,5,8
+ForegroundActive=95,179,179
+ForegroundInactive=144,167,187
+ForegroundLink=102,153,204
+ForegroundNegative=236,95,103
+ForegroundNeutral=249,145,87
+ForegroundNormal=205,211,222
+ForegroundPositive=153,199,148
+ForegroundVisited=0,9,37
+
+[Colors:View]
+BackgroundAlternate=41,56,61
+BackgroundNormal=25,33,41,120
+DecorationFocus=0,5,8
+DecorationHover=0,5,8
+ForegroundActive=95,179,179
+ForegroundInactive=144,167,187
+ForegroundLink=102,153,204
+ForegroundNegative=236,95,103
+ForegroundNeutral=249,145,87
+ForegroundNormal=255,255,255
+ForegroundPositive=153,199,148
+ForegroundVisited=0,9,37
+
+[Colors:Window]
+BackgroundAlternate=47,52,63
+BackgroundNormal=0,5,8,50
+DecorationFocus=0,5,8
+DecorationHover=0,5,8
+ForegroundActive=95,179,179
+ForegroundInactive=144,167,187
+ForegroundLink=102,153,204
+ForegroundNegative=236,95,103
+ForegroundNeutral=249,145,87
+ForegroundNormal=255,255,255
+ForegroundPositive=153,199,148
+ForegroundVisited=0,9,37
+
+[DirSelect Dialog]
+DirSelectDialog Size=1366,744
+History Items[$e]=file:$HOME/Descargas/MiyukiGPT Builds Versions/Alpha/MiyukiGPT Alpha v2/miyuki_sfw_software_parts,file:///media/alex/5A0A4FA80A4F7FCD/Archivos de programa/Image-Line/FL Studio 2024/Data/Patches/User/Cymatics Project X WAV FXP MIDI ALP FLP/Drums - Loops/Fills,file:$HOME/Descargas/MiyukiGPT Builds Versions,file:///media/alex/5A0A4FA80A4F7FCD/Users/Usuario/Documents/Xfer/Serum 2 Presets/Tables/User/Kirisame Records - Kawaii Growl Doujin Tables Vol. 1/Ultracomb Bass Tables,file:$HOME/Vídeos/Hidamari,file:$HOME/Vídeos/Hidamari,file:$HOME/.config/Kvantum/KvGnomeDark,file:$HOME/.config/Kvantum,file:$HOME/.config/Kvantum/,file:$HOME/Descargas/MiyukiGPT Builds Versions/Alpha/MiyukiGPT Alpha v2/miyuki_nsfw_software_parts,file:$HOME/Descargas/MiyukiGPT Builds Versions/Alpha/MiyukiGPT Alpha v2/miyuki_nsfw_software_parts
+Splitter State=\x00\x00\x00\xff\x00\x00\x00\x01\x00\x00\x00\x02\x00\x00\x00\xaf\x00\x00\x02\xa8\x00\xff\xff\xff\xff\x01\x00\x00\x00\x01\x00
+
+[General]
+BrowserApplication=google-chrome.desktop
+ColorSchemeHash=24288110b39dda6619b7c980e16f5c7ac2be64b1
+LastUsedCustomAccentColor=61,174,233
+UseSystemBell=true
+XftAntialias=true
+XftSubPixel=rgb
+fixed=VL Gothic,8,-1,5,400,0,0,0,0,0,0,0,0,0,0,1,regular
+font=Arial Unicode MS,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
+menuFont=Arial Unicode MS,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
+smallestReadableFont=Arial Unicode MS,8,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
+toolBarFont=Arial Unicode MS,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
+
+[Icons]
+Theme=int_nord
+
+[KDE]
+LookAndFeelPackage=org.kde.breezedark.desktop
+widgetStyle=kvantum-dark
+
+[KFileDialog Settings]
+Allow Expansion=false
+Automatically select filename extension=true
+Breadcrumb Navigation=false
+Decoration position=2
+LocationCombo Completionmode=5
+PathCombo Completionmode=5
+Show Bookmarks=false
+Show Full Path=false
+Show Inline Previews=true
+Show Preview=false
+Show Speedbar=true
+Show hidden files=false
+Sort by=Name
+Sort directories first=true
+Sort hidden files last=false
+Sort reversed=false
+Speedbar Width=175
+View Style=Simple
+
+[KScreen]
+ScreenScaleFactors=LVDS-1=1;VGA-1=1;
+XwaylandClientsScale=false
+
+[KShortcutsDialog Settings]
+Dialog Size=673,480
+
+[WM]
+activeBackground=0,5,8,50
+activeBlend=0,9,37
+activeFont=Arial Unicode MS,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
+activeForeground=255,255,255
+inactiveBackground=0,5,8,50
+inactiveBlend=0,9,37
+inactiveForeground=7,9,9
