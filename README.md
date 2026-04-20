@@ -26,3 +26,13 @@ DTG-Shrine-OS/
 | **Mover Foco entre Ventanas y Pantallas** | <kbd>Meta</kbd> + <kbd>Num</kbd> + <kbd>Flechas</kbd> |
 | **Mover Ventana entre pantallas (Swap)** | <kbd>Meta</kbd> + <kbd>Shift</kbd> + <kbd>Flechas</kbd> |
 | **Cambiar Distribución de Mosaico** | <kbd>Meta</kbd> + <kbd>PageUp / PageDown</kbd> |
+
+## 🚀 Instalación de Estética (Ricing)
+
+Para aplicar los iconos y temas oficiales de la distro, ejecutá:
+
+```bash
+chmod +x scripts/install_assets.sh
+./scripts/install_assets.sh
+
+```
