@@ -18,7 +18,7 @@ DTG-Shrine-OS/
 └── README.md                 # La "biblia" de la distribución.
 
 ```
-## ⌨️ Atajos de Gestión de Ventanas (KDE Native Tilings)
+## ⌨️ Atajos de Gestión de Ventanas (KDE Tilings)
 
 | Acción | Comando |
 | :--- | :--- |
