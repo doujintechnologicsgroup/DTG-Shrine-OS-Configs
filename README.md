@@ -23,7 +23,7 @@ DTG-Shrine-OS/
 | Acción | Comando |
 | :--- | :--- |
 | **Activar/Desactivar Mosaico** | <kbd>Meta</kbd> + <kbd>T</kbd> |
-| **Mover Foco entre Ventanas** | <kbd>Meta</kbd> + <kbd>Flechas</kbd> |
+| **Mover Foco entre Ventanas y Pantallas** | <kbd>Meta</kbd> + <kbd>Num</kbd> + <kbd>Flechas</kbd> |
 | **Mover Ventana (Swap)** | <kbd>Meta</kbd> + <kbd>Shift</kbd> + <kbd>Flechas</kbd> |
 | **Cambiar Distribución de Mosaico** | <kbd>Meta</kbd> + <kbd>PageUp / PageDown</kbd> |
 | **Maximizar Ventana en el Mosaico** | <kbd>Meta</kbd> + <kbd>M</kbd> |
