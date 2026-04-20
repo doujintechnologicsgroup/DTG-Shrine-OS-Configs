@@ -14,5 +14,5 @@ DTG-Shrine-OS/
 ├── etc/                      # Repositorios (Apt sources) y configuraciones globales.
 ├── assets/                   # Branding oficial: Logos (Shuriken), Wallpapers y fuentes.
 ├── scripts/                  # Scripts de instalación, limpieza y optimización.
-├── robotic_waifu_manual/     # Guía técnica para implementar IA local (Jan AI).
+├── robotic_waifu_manual/     # Guía técnica para crear tu waifu robotica local (Jan AI).
 └── README.md                 # La "biblia" de la distribución.
