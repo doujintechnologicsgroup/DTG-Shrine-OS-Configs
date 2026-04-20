@@ -1,5 +1,7 @@
 # ⛩️ DTG Shrine OS 4.0
 
+![Logo](assets/svg/dtg_shrine_os_1.svg)
+
 ### "The Architect's Sanctuary"
 
 Bienvenido al repositorio oficial de **DTG Shrine OS**, una distribución personalizada basada en **Debian Testing (Trixie)**, diseñada para sysadmins, productores musicales y entusiastas del ricing extremo en KDE Plasma.
