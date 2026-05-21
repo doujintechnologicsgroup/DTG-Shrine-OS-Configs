@@ -24,7 +24,10 @@ sudo lb clean --purge
 lb config
 sudo lb build
 ```
-[![Contributors](https://contrib.rocks/image?repo=doujintechnologicsgroup/DTG_Shrine_OS)](https://github.com/doujintechnologicsgroup/DTG_Shrine_OS/graphs/contributors)
+## Contribuyentes
+<a href="https://github.com/doujintechnologicsgroup/DTG_Shrine_OS/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=doujintechnologicsgroup/DTG_Shrine_OS" />
+</a>
 
 ---
 *Desarrollado por Doujin Technologics Group. Inspirado en el ricing minimalista y la cultura otaku.*
