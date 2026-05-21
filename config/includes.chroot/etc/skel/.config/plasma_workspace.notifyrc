@@ -1,0 +1,18 @@
+[Event/Textcompletion: no match]
+Action=Sound
+
+[Event/Textcompletion: partial match]
+Action=Sound
+
+[Event/Textcompletion: rotation]
+Action=Sound
+
+[Event/Trash: emptied]
+
+[Event/exitkde]
+Action=Sound
+
+[Event/fatalerror]
+
+[Event/startkde]
+Action=Sound
