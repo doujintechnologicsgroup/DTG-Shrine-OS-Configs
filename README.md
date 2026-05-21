@@ -2,7 +2,7 @@
 
 ![License](https://img.shields.io/badge/license-GPL--3.0-blue)
 ![Architecture](https://img.shields.io/badge/arch-amd64-red)
-![Contributions](https://img.shields.io/github/contributors/doujintechnologicsgroup/DTG_Shrine_OS)
+[![Contributors](https://contrib.rocks/image?repo=doujintechnologicsgroup/DTG_Shrine_OS)](https://github.com/doujintechnologicsgroup/DTG_Shrine_OS/graphs/contributors)
 
 **DTG Shrine OS** es una distribución personalizada basada en **Debian 13 (Trixie)** con el entorno de escritorio **KDE Plasma**. Diseñada para ofrecer un entorno de trabajo optimizado, estético y listo para la producción.
 
